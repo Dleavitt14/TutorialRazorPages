@@ -8550,11 +8550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/derekleavitt/Documents/Winter 2020/CIT 365/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectUniqueName": "/Users/derekleavitt/Documents/Winter 2020/CIT 365/TutorialRazorPages/RazorPagesMovie/RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "/Users/derekleavitt/Documents/Winter 2020/CIT 365/RazorPagesMovie/RazorPagesMovie.csproj",
+      "projectPath": "/Users/derekleavitt/Documents/Winter 2020/CIT 365/TutorialRazorPages/RazorPagesMovie/RazorPagesMovie.csproj",
       "packagesPath": "/Users/derekleavitt/.nuget/packages/",
-      "outputPath": "/Users/derekleavitt/Documents/Winter 2020/CIT 365/RazorPagesMovie/obj/",
+      "outputPath": "/Users/derekleavitt/Documents/Winter 2020/CIT 365/TutorialRazorPages/RazorPagesMovie/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
